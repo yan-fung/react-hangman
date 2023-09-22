@@ -5,7 +5,7 @@
 ## Introduction 
 This fun application was built with React and Typescript. It is still a work in procress. Stay tuned 🚀
 
-<img width="320" height="425" alt="Screenshot" src="https://github.com/yan-fung/react-hangman/assets/106375522/8226c5b6-9e64-482f-adf0-70bb3c5646b1">
+<img width="420" height="425" alt="Screenshot" src="https://github.com/yan-fung/react-hangman/assets/106375522/10bf71d2-6182-47d6-85d6-314dfccdd9a9">
 
 ## Quick Start and Commands
 
