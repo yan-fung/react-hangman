@@ -3,9 +3,9 @@
 </h1>
 
 ## Introduction 
-This fun application was built with React and Typescript. It is still a work in procress. Stay tuned 🚀
+This entertaining Hangman game app was created using React and Typescript. Players have up to 6 guesses to discover the hidden word. With each incorrect guess, a body part is revealed from head to leg. If the word remains unsolved after 6 guesses, the correct word is revealed. Give it a try and test your word-guessing skills! 🚀 
 
-<img width="420" height="425" alt="Screenshot" src="https://github.com/yan-fung/react-hangman/assets/106375522/10bf71d2-6182-47d6-85d6-314dfccdd9a9">
+<img width="420" height="425" alt="Screenshot" src="https://github.com/yan-fung/react-hangman/assets/106375522/b2d6d9ac-cb3b-454d-9c29-035e9f516c17">
 
 ## Quick Start and Commands
 
