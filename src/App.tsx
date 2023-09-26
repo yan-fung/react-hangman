@@ -70,9 +70,9 @@ const App = () => {
       margin: "0 auto",
       alignItems: "center"
     }}>
-      <div style={{ fontSize: "2rem", textAlign: "center"}}>
-        {isWinner && "Winner! - Refresh to try again"}
-        {isLoser && "Nice Try - Refresh to try again"}
+      <div style={{ paddingTop: "1rem", fontSize: "2rem", textAlign: "center", fontFamily: "monospace", fontWeight:"bold"}}>
+        {isWinner && "Winner! - Refresh to try again!"}
+        {isLoser && "Nice Try - Refresh to try again!"}
       </div>
       <HangmanDrawing numberOfGuesses={incorrectLetters.length} />
       <HangmanWord 
